@@ -14,6 +14,9 @@ use_LPD8806.js is a demonstration program
 
 
 Other similar projects
+
 https://github.com/adammhaile/RPi-LPD8806
+
 https://github.com/adammhaile/RPi-LPD8806
+
 https://github.com/Sh4d/LPD8806
