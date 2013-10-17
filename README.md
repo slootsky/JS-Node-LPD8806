@@ -11,3 +11,9 @@ Unfortunately, this hasn't been tested yet.  (I don't have an LED strip to play 
 LPD8806.js is a loadable module
 
 use_LPD8806.js is a demonstration program
+
+
+Other similar projects
+https://github.com/adammhaile/RPi-LPD8806
+https://github.com/adammhaile/RPi-LPD8806
+https://github.com/Sh4d/LPD8806
